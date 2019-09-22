@@ -1,0 +1,23 @@
+canvas{
+
+
+	
+}
+
+#timer{
+
+	font-size: 24px;
+	font-family: sans-serif;
+}
+
+#btn{
+
+	padding: 10px;
+	font-size: 36px;
+	font-weight: 300;
+	border-radius: 10%;
+	margin-top: 20px;
+	background: #323D47;
+	color: #EBEDEF;
+
+}
